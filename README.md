@@ -1,6 +1,6 @@
 # Quantifico (Work in progress)
 
-Quantifico is a Web Application, more specifically, a Single Page Application, designed to grant the user valuable insights on their company. The data is presented in a visual manner throught multiple kinds of plots, making it extremely simple to digest.
+Quantifico is a Web Application, more specifically, a Single Page Application, designed to grant the user valuable insights on their company. The data is presented in a visual manner throught multiple kinds of plots, making them extremely simple to digest.
 
 ## Getting Started
 
