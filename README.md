@@ -4,7 +4,7 @@ Quantifico is a Web Application, more specifically, a Single Page Application, d
 
 ## Getting Started
 
-To get the project running, you will need to access both "client" and "server" folders and follow the README steps. It's important to note that you will need a local MongoDB process running.
+To get the project running, you will need to access both **client** and **server** folders and follow the **README** steps. It's important to note that you will need a local MongoDB process running.
 
 ## Disclaimer
 
