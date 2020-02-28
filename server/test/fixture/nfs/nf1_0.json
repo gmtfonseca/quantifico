@@ -1,0 +1,265 @@
+﻿{
+	"NFe": {
+		"infNFe": {
+			"ide": {
+				"cUF": "35",
+				"cNF": "518005127",
+				"natOp": "Venda a vista",
+				"indPag": "0",
+				"mod": "55",
+				"serie": "1",
+				"nNF": "1",
+				"dEmi": "2008-05-06",
+				"dSaiEnt": "2008-05-06",
+				"tpNF": "0",
+				"cMunFG": "3550308",
+				"tpImp": "1",
+				"tpEmis": "1",
+				"cDV": "3",
+				"tpAmb": "2",
+				"finNFe": "1",
+				"procEmi": "0",
+				"verProc": "NF-eletronica.com"
+			},
+			"emit": {
+				"CNPJ": "99999090910270",
+				"xNome": "NF-e Associacao NF-e",
+				"xFant": "NF-e",
+				"enderEmit": {
+					"xLgr": "Rua Central",
+					"nro": "100",
+					"xCpl": "Fundos",
+					"xBairro": "Distrito Industrial",
+					"cMun": "3502200",
+					"xMun": "Angatuba",
+					"UF": "SP",
+					"CEP": "17100171",
+					"cPais": "1058",
+					"xPais": "Brasil",
+					"fone": "1733021717"
+				},
+				"IE": "123456789012"
+			},
+			"dest": {
+				"CNPJ": "00000000000191",
+				"xNome": "DISTRIBUIDORA DE AGUAS MINERAIS",
+				"enderDest": {
+					"xLgr": "AV DAS FONTES",
+					"nro": "1777",
+					"xCpl": "10 ANDAR",
+					"xBairro": "PARQUE FONTES",
+					"cMun": "5030801",
+					"xMun": "Sao Paulo",
+					"UF": "SP",
+					"CEP": "13950000",
+					"cPais": "1058",
+					"xPais": "BRASIL",
+					"fone": "1932011234"
+				},
+				"IE": "2131231321"
+			},
+			"retirada": {
+				"CNPJ": "99171171000194",
+				"xLgr": "AV PAULISTA",
+				"nro": "12345",
+				"xCpl": "TERREO",
+				"xBairro": "CERQUEIRA CESAR",
+				"cMun": "3550308",
+				"xMun": "SAO PAULO",
+				"UF": "SP"
+			},
+			"entrega": {
+				"CNPJ": "99299299000194",
+				"xLgr": "AV FARIA LIMA",
+				"nro": "1500",
+				"xCpl": "15 ANDAR",
+				"xBairro": "PINHEIROS",
+				"cMun": "3550308",
+				"xMun": "SAO PAULO",
+				"UF": "SP"
+			},
+			"det": [
+				{
+					"prod": {
+						"cProd": "00001",
+						"cEAN": "ass1",
+						"xProd": "Agua Mineral",
+						"CFOP": "5101",
+						"uCom": "dz",
+						"qCom": "1000000.0000",
+						"vUnCom": "1",
+						"vProd": "10000000.00",
+						"cEANTrib": "",
+						"uTrib": "und",
+						"qTrib": "12000000.0000",
+						"vUnTrib": "1"
+					},
+					"imposto": {
+						"ICMS": {
+							"ICMS00": {
+								"orig": "0",
+								"CST": "00",
+								"modBC": "0",
+								"vBC": "10000000.00",
+								"pICMS": "18.00",
+								"vICMS": "1800000.00"
+							}
+						},
+						"PIS": {
+							"PISAliq": {
+								"CST": "01",
+								"vBC": "10000000.00",
+								"pPIS": "0.65",
+								"vPIS": "65000"
+							}
+						},
+						"COFINS": {
+							"COFINSAliq": {
+								"CST": "01",
+								"vBC": "10000000.00",
+								"pCOFINS": "2.00",
+								"vCOFINS": "200000.00"
+							}
+						}
+					},
+					"_nItem": "1"
+				},
+				{
+					"prod": {
+						"cProd": "00002",
+						"cEAN": "",
+						"xProd": "Agua Mineral",
+						"CFOP": "5101",
+						"uCom": "pack",
+						"qCom": "5000000.0000",
+						"vUnCom": "2",
+						"vProd": "10000000.00",
+						"cEANTrib": "",
+						"uTrib": "und",
+						"qTrib": "3000000.0000",
+						"vUnTrib": "0.3333"
+					},
+					"imposto": {
+						"ICMS": {
+							"ICMS00": {
+								"orig": "0",
+								"CST": "00",
+								"modBC": "0",
+								"vBC": "10000000.00",
+								"pICMS": "18.00",
+								"vICMS": "1800000.00"
+							}
+						},
+						"PIS": {
+							"PISAliq": {
+								"CST": "01",
+								"vBC": "10000000.00",
+								"pPIS": "0.65",
+								"vPIS": "65000"
+							}
+						},
+						"COFINS": {
+							"COFINSAliq": {
+								"CST": "01",
+								"vBC": "10000000.00",
+								"pCOFINS": "2.00",
+								"vCOFINS": "200000.00"
+							}
+						}
+					},
+					"_nItem": "2"
+				}
+			],
+			"total": {
+				"ICMSTot": {
+					"vBC": "20000000.00",
+					"vICMS": "18.00",
+					"vBCST": "0",
+					"vST": "0",
+					"vProd": "20000000.00",
+					"vFrete": "0",
+					"vSeg": "0",
+					"vDesc": "0",
+					"vII": "0",
+					"vIPI": "0",
+					"vPIS": "130000.00",
+					"vCOFINS": "400000.00",
+					"vOutro": "0",
+					"vNF": "20000000.00"
+				}
+			},
+			"transp": {
+				"modFrete": "0",
+				"transporta": {
+					"CNPJ": "99171171000191",
+					"xNome": "Distribuidora de Bebidas Fazenda de SP Ltda.",
+					"IE": "171999999119",
+					"xEnder": "Rua Central 100 - Fundos - Distrito Industrial",
+					"xMun": "SAO PAULO",
+					"UF": "SP"
+				},
+				"veicTransp": {
+					"placa": "BXI1717",
+					"UF": "SP",
+					"RNTC": "123456789"
+				},
+				"reboque": {
+					"placa": "BXI1818",
+					"UF": "SP",
+					"RNTC": "123456789"
+				},
+				"vol": {
+					"qVol": "10000",
+					"esp": "CAIXA",
+					"marca": "LINDOYA",
+					"nVol": "500",
+					"pesoL": "1000000000.000",
+					"pesoB": "1200000000.000",
+					"lacres": {
+						"nLacre": "XYZ10231486"
+					}
+				}
+			},
+			"infAdic": {
+				"infAdFisco": "Nota Fiscal de exemplo NF-eletronica.com"
+			},
+			"_Id": "NFe35080599999090910270550010000000015180051273",
+			"_versao": "1.10"
+		},
+		"Signature": {
+			"SignedInfo": {
+				"CanonicalizationMethod": {
+					"_Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+				},
+				"SignatureMethod": {
+					"_Algorithm": "http://www.w3.org/2000/09/xmldsig#rsa-sha1"
+				},
+				"Reference": {
+					"Transforms": {
+						"Transform": [
+							{
+								"_Algorithm": "http://www.w3.org/2000/09/xmldsig#enveloped-signature"
+							},
+							{
+								"_Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+							}
+						]
+					},
+					"DigestMethod": {
+						"_Algorithm": "http://www.w3.org/2000/09/xmldsig#sha1"
+					},
+					"DigestValue": "xhTSDMH61e9uqe04lnoHT4ZzLSY=",
+					"_URI": "#NFe35080599999090910270550010000000015180051273"
+				}
+			},
+			"SignatureValue": "Iz5Z3PLQbzZt9jnBtr6xsmHZMOu/3plXG9xxfFjRCQYGnD1rjlhzBGrqt026Ca2VHHM/bHNepi6FuFkAi595GScKVuHREUotzifE2OIjgavvTOrMwbXG7+0LYgkwPFiPCao2S33UpZe7MneaxcmKQGKQZw1fP8fsWmaQ4cczZT8=",
+			"KeyInfo": {
+				"X509Data": {
+					"X509Certificate": "MIIEuzCCA6OgAwIBAgIDMTMxMA0GCSqGSIb3DQEBBQUAMIGSMQswCQYDVQQGEwJCUjELMAkGA1UECBMCUlMxFTATBgNVBAcTDFBvcnRvIEFsZWdyZTEdMBsGA1UEChMUVGVzdGUgUHJvamV0byBORmUgUlMxHTAbBgNVBAsTFFRlc3RlIFByb2pldG8gTkZlIFJTMSEwHwYDVQQDExhORmUgLSBBQyBJbnRlcm1lZGlhcmlhIDEwHhcNMDgwNDI4MDkwMTAyWhcNMDkwNDMwMjM1OTU5WjCBnjELMAkGA1UECBMCUlMxHTAbBgNVBAsTFFRlc3RlIFByb2pldG8gTkZlIFJTMR0wGwYDVQQKExRUZXN0ZSBQcm9qZXRvIE5GZSBSUzEVMBMGA1UEBxMMUE9SVE8gQUxFR1JFMQswCQYDVQQGEwJCUjEtMCsGA1UEAxMkTkZlIC0gQXNzb2NpYWNhbyBORi1lOjk5OTk5MDkwOTEwMjcwMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDDh6RRv0bj4RYX+tDQrZRb5opa77LBVVs+6LphIfSF3TSWPfnKh0+xLlBFdmnB5YGgbbW9Uon6pZQTfaC8jZhRhI5eFRRofY/Ugoeo0NGt6PcIQNZQd6lLQ/ASd1qWwjqJoEa7udriKjy3h351Mf1bng1VxS1urqC3Dn39ZWIEwQIDAQABo4IBjjCCAYowIgYDVR0jAQEABBgwFoAUPT5TqhNWAm+ZpcVsvB7malDBjEQwDwYDVR0TAQH/BAUwAwEBADAPBgNVHQ8BAf8EBQMDAOAAMAwGA1UdIAEBAAQCMAAwgbwGA1UdEQEBAASBsTCBrqA4BgVgTAEDBKAvBC0wNzA4MTk1MTE1MTk0NTMxMDg3MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCgHQYFYEwBAwKgFAQSRmVybmFuZG8gQ2FudG8gQWx0oBkGBWBMAQMDoBAEDjk5OTk5MDkwOTEwMjcwoBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIEfZmVybmFuZG8tYWx0QHByb2NlcmdzLnJzLmdvdi5icjAgBgNVHSUBAf8EFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwUwYDVR0fAQEABEkwRzBFoEOgQYY/aHR0cDovL25mZWNlcnRpZmljYWRvLnNlZmF6LnJzLmdvdi5ici9MQ1IvQUNJbnRlcm1lZGlhcmlhMzguY3JsMA0GCSqGSIb3DQEBBQUAA4IBAQCNPpaZ3Byu3/70nObXE8NiM53j1ddIFXsb+v2ghCVd4ffExv3hYc+/a3lfgV8H/WfQsdSCTzS2cHrd4Aasr/eXfclVDmf2hcWz+R7iysOHuT6B6r+DvV3JcMdJJCDdynR5REa+zViMnVZo1G3KuceQ7/y5X3WFNVq4kwHvonJ9oExsWyw8rTwUK5bsjz0A2yEwXkmkJIngnF41sP31+9jCImiqkXcmsesFhxzX7iurAQAQCZOm7iwMWxQKcAjXCZrgSZWRQy6mU224sX3HTArHahmLJ9Iw+WYAua5qBJsiN6PC7v5tfhrEQFpcG39yMnOecxvkkPolDUyBa7d7xwgm"
+				}
+			},
+			"_xmlns": "http://www.w3.org/2000/09/xmldsig#"
+		},
+		"_xmlns": "http://www.portalfiscal.inf.br/nfe"
+	}
+}

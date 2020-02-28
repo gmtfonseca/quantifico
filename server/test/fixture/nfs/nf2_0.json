@@ -1,0 +1,255 @@
+﻿{
+	"nfeProc": {
+		"NFe": {
+			"infNFe": {
+				"ide": {
+					"cUF": "11",
+					"cNF": "09399701",
+					"natOp": "VENDA NO ESTADO MERC.ADQ.TERCEIROS",
+					"indPag": "0",
+					"mod": "55",
+					"serie": "1",
+					"nNF": "488",
+					"dEmi": "2010-12-02",
+					"dSaiEnt": "2010-12-02",
+					"hSaiEnt": "17:04:25",
+					"tpNF": "1",
+					"cMunFG": "1100205",
+					"tpImp": "1",
+					"tpEmis": "1",
+					"cDV": "7",
+					"tpAmb": "2",
+					"finNFe": "1",
+					"procEmi": "0",
+					"verProc": "1.0.0.0"
+				},
+				"emit": {
+					"CNPJ": "84613439000180",
+					"xNome": "MicroLine Software",
+					"xFant": "MicroLine Software",
+					"enderEmit": {
+						"xLgr": "Av. Rafael Vaz e Silva",
+						"nro": "003091",
+						"xBairro": "LIBERDADE",
+						"cMun": "1100205",
+						"xMun": "PORTO VELHO",
+						"UF": "RO",
+						"CEP": "78904120",
+						"cPais": "1058",
+						"xPais": "BRASIL",
+						"fone": "6933213610"
+					},
+					"IE": "00000000415138",
+					"IM": "999911111",
+					"CNAE": "4645101",
+					"CRT": "1"
+				},
+				"dest": {
+					"CNPJ": "04428897000100",
+					"xNome": "MICROLINE SOFTWARE -000001",
+					"enderDest": {
+						"xLgr": "RUA QUINTINO BOCAIUV-LOJA 01",
+						"nro": "005810",
+						"xBairro": "OLARIA",
+						"cMun": "1100205",
+						"xMun": "PORTO VELHO",
+						"UF": "RO",
+						"CEP": "76801250",
+						"cPais": "1058",
+						"xPais": "BRASIL"
+					},
+					"IE": "00000001113054",
+					"email": "wagneraragao@zipmail.com.br"
+				},
+				"det": [
+					{
+						"prod": {
+							"cProd": "7897393543541",
+							"cEAN": "",
+							"xProd": "PAPEL SUPERLINHO 180 GRS 100 FLS AZUL-------------",
+							"NCM": "99999999",
+							"CFOP": "5405",
+							"uCom": "UN",
+							"qCom": "10.0000",
+							"vUnCom": "50.0000000000",
+							"vProd": "500.00",
+							"cEANTrib": "",
+							"uTrib": "UN",
+							"qTrib": "10.0000",
+							"vUnTrib": "50.0000000000",
+							"vDesc": "50.00",
+							"indTot": "1"
+						},
+						"imposto": {
+							"ICMS": {
+								"ICMSSN500": {
+									"orig": "0",
+									"CSOSN": "500",
+									"vBCSTRet": "0.00",
+									"vICMSSTRet": "0.00"
+								}
+							},
+							"PIS": {
+								"PISOutr": {
+									"CST": "99",
+									"vBC": "0.00",
+									"pPIS": "0.00",
+									"vPIS": "0.00"
+								}
+							},
+							"COFINS": {
+								"COFINSOutr": {
+									"CST": "99",
+									"vBC": "0.00",
+									"pCOFINS": "0.00",
+									"vCOFINS": "0.00"
+								}
+							}
+						},
+						"_nItem": "1"
+					},
+					{
+						"prod": {
+							"cProd": "MAO 0002",
+							"cEAN": "",
+							"xProd": "SERVICOS ELETRICOS--------------------------------",
+							"NCM": "99999999",
+							"CFOP": "5933",
+							"uCom": "H",
+							"qCom": "2.0000",
+							"vUnCom": "45.0000000000",
+							"vProd": "90.00",
+							"cEANTrib": "",
+							"uTrib": "H",
+							"qTrib": "2.0000",
+							"vUnTrib": "45.0000000000",
+							"indTot": "0"
+						},
+						"imposto": {
+							"ISSQN": {
+								"vBC": "90.00",
+								"vAliq": "5.00",
+								"vISSQN": "4.50",
+								"cMunFG": "1100205",
+								"cListServ": "108",
+								"cSitTrib": "N"
+							},
+							"PIS": {
+								"PISOutr": {
+									"CST": "99",
+									"vBC": "0.00",
+									"pPIS": "0.00",
+									"vPIS": "0.00"
+								}
+							},
+							"COFINS": {
+								"COFINSOutr": {
+									"CST": "99",
+									"vBC": "0.00",
+									"pCOFINS": "0.00",
+									"vCOFINS": "0.00"
+								}
+							}
+						},
+						"_nItem": "2"
+					}
+				],
+				"total": {
+					"ICMSTot": {
+						"vBC": "0.00",
+						"vICMS": "0.00",
+						"vBCST": "0.00",
+						"vST": "0.00",
+						"vProd": "500.00",
+						"vFrete": "0.00",
+						"vSeg": "0.00",
+						"vDesc": "50.00",
+						"vII": "0.00",
+						"vIPI": "0.00",
+						"vPIS": "0.00",
+						"vCOFINS": "0.00",
+						"vOutro": "0.00",
+						"vNF": "540.00"
+					},
+					"ISSQNtot": {
+						"vServ": "90.00",
+						"vBC": "90.00",
+						"vISS": "4.50"
+					}
+				},
+				"transp": {
+					"modFrete": "0",
+					"vol": ""
+				},
+				"cobr": {
+					"fat": {
+						"nFat": "488",
+						"vOrig": "540.00",
+						"vLiq": "540.00"
+					},
+					"dup": {
+						"nDup": "00000488-01/01",
+						"dVenc": "2010-12-02",
+						"vDup": "540.00"
+					}
+				},
+				"infAdic": {
+					"infCpl": "Pz -> / / / / / / / / / / / (0000161);F.Pgto : 1-Dinheiro Vend : 1-WAGNER ARAGAO ;* Desconto em Produtos de ( 10,00000%) R$ 50,00 *;Mens CFOP : DESCONTO REFERENTE ISENCAO DE ICMS REF FULERAGEM DO GOVERNO ;*Substituicao Tributaria *;*Empresa Optante Simples Nacional*;Base ICMS= 540,00 Aliq ICMS= 3,50%=0,00"
+				},
+				"_versao": "2.00",
+				"_Id": "NFe11101284613439000180550010000004881093997017"
+			},
+			"Signature": {
+				"SignedInfo": {
+					"CanonicalizationMethod": {
+						"_Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+					},
+					"SignatureMethod": {
+						"_Algorithm": "http://www.w3.org/2000/09/xmldsig#rsa-sha1"
+					},
+					"Reference": {
+						"Transforms": {
+							"Transform": [
+								{
+									"_Algorithm": "http://www.w3.org/2000/09/xmldsig#enveloped-signature"
+								},
+								{
+									"_Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+								}
+							]
+						},
+						"DigestMethod": {
+							"_Algorithm": "http://www.w3.org/2000/09/xmldsig#sha1"
+						},
+						"DigestValue": "DGTa0m6/dOui5S46nfHyqifBZ1U=",
+						"_URI": "#NFe11101284613439000180550010000004881093997017"
+					}
+				},
+				"SignatureValue": "pSDFSfsSA2ZeXIGEybRqhs8wLze95RCxc6Ar3htLvWmDFtWcGRVygzTNa5JPsgRsl7mvKOg9CuRv+Csm/cmrr2GpsfjNl74XPC/8gjFSqObNJlVrrpCNFEV+fHHg4z3qTkgfhcN8uTsH8RRJ94INvYDfKaPBJOEVgN2JHEu4+Eo=",
+				"KeyInfo": {
+					"X509Data": {
+						"X509Certificate": "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"
+					}
+				},
+				"_xmlns": "http://www.w3.org/2000/09/xmldsig#"
+			},
+			"_xmlns": "http://www.portalfiscal.inf.br/nfe"
+		},
+		"protNFe": {
+			"infProt": {
+				"tpAmb": "2",
+				"verAplic": "SVRS20101126153318",
+				"chNFe": "11101284613439000180550010000004881093997017",
+				"dhRecbto": "2010-12-02T16:59:41",
+				"nProt": "311100000046263",
+				"digVal": "DGTa0m6/dOui5S46nfHyqifBZ1U=",
+				"cStat": "100",
+				"xMotivo": "Autorizado o uso da NF-e",
+				"_Id": "ID311100000046263"
+			},
+			"_versao": "2.00"
+		},
+		"_xmlns": "http://www.portalfiscal.inf.br/nfe",
+		"_versao": "2.00"
+	}
+}

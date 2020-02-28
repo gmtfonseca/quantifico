@@ -1,0 +1,4 @@
+{
+  "mochaExplorer.optsFile": "test/config/mocha.opts",
+  "mochaExplorer.env":  { "NODE_ENV": "test" }
+}

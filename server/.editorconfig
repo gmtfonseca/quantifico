@@ -1,0 +1,12 @@
+; Arquivo de configuração para qualquer editor.
+; O editor herda essas configurações utilizado o plugin "Editor config"
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+charset = utf-8
+; Retira espacos em branco no final da linha
+trim_trailing_whitespace = true
+insert_final_newline = true
