@@ -1,14 +1,7 @@
 # Quantifico (Work in progress)
 
-Quantifico is a Web Application, more specifically, a Single Page Application, designed to grant the user valuable insights on their company. The data is presented in a visual manner through multiple kinds of plots, making them extremely simple to digest.
+Quantifico is an app designed to grant the user valuable insights on their company. The data is presented in a visual manner through multiple kinds of plots, making it extremely simple to digest. There are currently a Mobile and Web client, both are still in development.
 
-## Getting Started
-
-To get the project running, you will need to access both **client** and **server** folders and follow the **README** steps. It's important to note that you will need a local MongoDB process running.
-
-## Disclaimer
-
-This is not the official development repository, this repo is only used for potfolio presentation. 
 
 ## Built Mainly With
 
@@ -21,14 +14,26 @@ This is not the official development repository, this repo is only used for potf
 * [Joi](https://github.com/hapijs/joi) - Data validation library
 
 
-**Client**
+**Mobile client**
+* [Flutter](https://flutter.dev/) - Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop.
+* [Bloc](https://bloclibrary.dev/) - State management library
+* [Charts Flutter](https://pub.dev/packages/charts_flutter) - Material Design data visualization library by Google.
+
+
+**Web client**
 * [Vue](https://github.com/vuejs/vue) - Front-end JavaScript framework
 * [Vuetify](https://github.com/vuetifyjs/vuetify) -  Material component framework for Vue
 * [Vue-Socket-io](https://github.com/MetinSeylan/Vue-Socket.io) - Socket.io implementation for Vue and Vuex 
 * [Apex Charts](https://github.com/apexcharts/apexcharts.js) - Awesome ploting library
 * [Vuex](https://github.com/vuejs/vuex) - Centralized state management for Vue.js
 
-## Authors
+## DEMO
 
-* **Gustavo Martinotto da Fonseca** - [gmtfonseca](https://github.com/gmtfonseca)
-* **Alex Junior Rambo** - [alexjrrambo](https://github.com/alexjrrambo)
+**Mobile Client**
+![](mobile-demo.gif)
+
+
+
+## Disclaimer
+
+This is not the official development repository, this repo is only used for potfolio. 
