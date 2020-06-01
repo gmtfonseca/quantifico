@@ -30,8 +30,13 @@ Quantifico is an app designed to grant the user valuable insights on their compa
 ## DEMO
 
 **Mobile Client**
+
 ![](mobile-demo.gif)
 
+
+**Web Client**
+
+![](web-demo.gif)
 
 
 ## Disclaimer
